@@ -1,1 +1,1 @@
-# Text-Classification-and-Sequence-Labelling
+# Text-Classification-and-Sequence-Labeling
